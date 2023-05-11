@@ -1,0 +1,26 @@
+#skill {
+  margin-top: 24px;
+}
+.intro {
+  color: white;
+  margin-top: 64px;
+}
+#fig {
+  position: relative;
+  margin-top: 34px;
+  margin-left: 205px;
+}
+.projects {
+  background-color: rgb(23, 22, 22);
+  padding: 34px;
+  width: 70%;
+  border-radius: 10px;
+  box-shadow: 5px 10px 18px #888888;
+}
+.footer {
+  margin: 0 auto;
+  position: relative;
+  float: right;
+  margin-bottom: 78px;
+  margin-top: 78px;
+}
